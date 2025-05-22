@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v-robsono\\Documents\\myDevOps\\myDevOps.csproj": {}
+    "C:\\Users\\v-robsono\\Documents\\myGit\\RobsonTest\\myDevOps.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v-robsono\\Documents\\myDevOps\\myDevOps.csproj": {
+    "C:\\Users\\v-robsono\\Documents\\myGit\\RobsonTest\\myDevOps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v-robsono\\Documents\\myDevOps\\myDevOps.csproj",
+        "projectUniqueName": "C:\\Users\\v-robsono\\Documents\\myGit\\RobsonTest\\myDevOps.csproj",
         "projectName": "myDevOps",
-        "projectPath": "C:\\Users\\v-robsono\\Documents\\myDevOps\\myDevOps.csproj",
+        "projectPath": "C:\\Users\\v-robsono\\Documents\\myGit\\RobsonTest\\myDevOps.csproj",
         "packagesPath": "C:\\Users\\v-robsono\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v-robsono\\Documents\\myDevOps\\obj\\",
+        "outputPath": "C:\\Users\\v-robsono\\Documents\\myGit\\RobsonTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\v-robsono\\AppData\\Roaming\\NuGet\\NuGet.Config"
